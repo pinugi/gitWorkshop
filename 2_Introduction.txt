@@ -1,0 +1,13 @@
+﻿Hello you!
+Welcome to the short git intro and workshop.
+As you might have already seen by a look on the naming of the different files in this repository, the repository contains a draft for a book.
+You can check the title of the book in the file "cover". Your task now is it to think of your favorite travel location where you've been so far. Each of you please add a new chapter (txt file) to the book and name it accordingly: yourname_town/country.txt
+
+
+Then within the file itself answer the following questions: 
+* What was the best sightseeing spot for you in that area? 
+* What was the best food you ate there? 
+* Is a trip to that area low budget or expensive? 
+
+
+Afterwards please go to the file dreamTravelDestination.txt. Please think of the following scenario: You have inherited money from an aunt to whom you are related via 10 corners and whom you have never seen before. At the same time this happens:  You’ve been performing outstanding at your work, they grant you 4 weeks paid vacation from tomorrow on. So the question to be answered in that chapter of the book  “where would you go travel to if money would not play a role at all and why”. And yes, this task is advanced, as you are all working on the same file. Let’s hope for not too much merge conflicts. :)
